@@ -1,4 +1,4 @@
-# ModernizeEWSApps
+# Modernize EWS Apps
 
 Modernize your Exchange Web Services apps with Microsoft Graph. The idea is to upgrade existing (legacy) applications using Exchange Web Services (EWS) with either using OAuth instead of Basic authentication, or to develop new applications or services using Microsoft Graph.
 
