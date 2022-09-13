@@ -62,7 +62,8 @@ private static bool RedirectionUrlValidationCallback(string redirectionUrl)
 
 ## Use Microsoft Graph sample
 
-- Microsoft identity platform and OAuth 2.0 authorization code flow
-- https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow
+- Microsoft Graph quick start
+- Build a sample app that connects to Microsoft 365 and calls the Microsoft Graph API.
+- https://developer.microsoft.com/en-us/graph/quick-start 
 
 Generate this sample and adapt it as needed.
